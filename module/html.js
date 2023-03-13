@@ -1,3 +1,4 @@
+module.exports = `
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,8 +8,10 @@
   <title>Document</title>
 </head>
 <body>
+  <h1>나는 서버임</h1>
   <script>
-    console.log('hello');
+    
   </script>
 </body>
 </html>
+`
